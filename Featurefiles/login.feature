@@ -9,7 +9,7 @@ Then user should receive the login sucess message"Hello Naveenaso!"
 Examples:
 |userName | passWord|
 |Naveenaso| Naveenmech1!|
-
+|balaji|bal123|
 
 @Negative
 Examples:
